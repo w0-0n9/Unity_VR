@@ -4,18 +4,22 @@
 </h3>
 
 ## Development Info
-<p> I'm Jinwoong Shin(Roy), CS developer from South Korea 🇰🇷, currently living in the states 🇺🇸. </p>
-<p> I major in Computer Science at University of Wisconsin - Madison. 
-  <a href="https://www.wisc.edu/"><img alt="University of Wisconsin" src="https://img.shields.io/badge/University%20of%20Wisconsin-CC0000.svg?&logoColor=white"></a>
-</p>
-<p> I worked as AR/VR developer at Nice Payments Internship.
-  <a href="https://www.nicepayments.co.kr/eng/main/main.html"><img alt="Nice Payments" src="https://img.shields.io/badge/Nice%20Payments-4CAF50.svg?logo=credit-card&logoColor=white"></a>
-</p> 
-<p> I worked as Salesforce and AI developer at Samsung SDS Internship. 
-  <a href="https://www.samsungsds.com/us/index.html"><img alt="Samsung" src="https://img.shields.io/badge/Samsung-1428A0.svg?logo=samsung&logoColor=white"></a>
-</p> 
+<p> ☀️ PAYMENTS SUMMER INTERNSHIP PROJECT😎</p>
+<p> 1. Use image tracking technology to recognize cosmetics. </p>
+<p> 2. Build app UI: adding product information </p>
+<p> 3. Link to payment API from NICE PAYMENTS: https://github.com/nicepayments/nicepay-manual.git </p>
 
-## Actual App Execution Video 
+## Actual App Execution (YOUTUBE Video) 
 [![Video Label](http://img.youtube.com/vi/U2iMRnpvzLQ/0.jpg)](https://youtu.be/U2iMRnpvzLQ)
 
 
+### 👨‍💻 Programming languages
+<p>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+</p>
+
+### 💻 Software and tools
+<p>
+  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
+</p>
