@@ -16,6 +16,6 @@
 </p> 
 
 ## Actual App Execution Video 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/U2iMRnpvzLQ/0.jpg)](https://youtu.be/U2iMRnpvzLQ)
 
 
