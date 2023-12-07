@@ -10,7 +10,7 @@
 <p> 3. Link to payment API from NICE PAYMENTS: https://github.com/nicepayments/nicepay-manual.git </p>
 
 ## Actual App Execution (YOUTUBE Video) 
-[![Video Label](http://img.youtube.com/vi/yqETki5AcOU.jpg)](https://youtu.be/yqETki5AcOU)
+[![Video Label](http://img.youtube.com/vi/U2iMRnpvzLQ/0.jpg)](https://youtu.be/U2iMRnpvzLQ)
 
 
 ### 👨‍💻 Programming languages
